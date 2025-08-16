@@ -1,2 +1,2 @@
 # CerobaFox-
-cerobafox-legal
+cerobafox-privacy-policy
